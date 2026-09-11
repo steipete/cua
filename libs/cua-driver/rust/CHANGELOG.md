@@ -1,5 +1,11 @@
 # Changelog
 
+## Unreleased
+
+### Bug Fixes
+
+* **cua-driver:** backport X11 keyboard delivery and tap timing fixes from trycua/cua#3709 onto the 0.22.2 SDK contract.
+
 ## [0.22.2](https://github.com/trycua/cua/compare/cua-driver-rs-v0.22.1...cua-driver-rs-v0.22.2) (2026-08-27)
 
 
